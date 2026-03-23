@@ -89,16 +89,16 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="1011" height="150" alt="image" src="https://github.com/user-attachments/assets/dcbe91d0-93d6-4fb7-a958-082b71b79ffa" />
+<img width="762" height="293" alt="image" src="https://github.com/user-attachments/assets/96defbfe-842b-4277-8c0d-67648f2e2198" />
 
+<img width="745" height="681" alt="image" src="https://github.com/user-attachments/assets/3ec8d164-68bf-4ac0-bd70-b5be7473b0dd" />
 
-
-<img width="761" height="548" alt="image" src="https://github.com/user-attachments/assets/8a6a4668-b5c1-4640-aba2-5060edd8ce1e" />
 
 
 
 ### Sample Text Prediction
-<img width="853" height="817" alt="image" src="https://github.com/user-attachments/assets/d62d8fe6-c958-45ba-a784-6894beea303a" />
+<img width="792" height="702" alt="image" src="https://github.com/user-attachments/assets/588af1a6-f017-4c85-9650-164dc445f947" />
+
 
 ## RESULT
 The BiLSTM NER model achieved good accuracy in identifying entities like persons, locations, and organizations. It showed strong performance on frequent tags, with scope for improvement on rarer ones.
